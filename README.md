@@ -10,3 +10,7 @@ Our approach performs end-to-end reconstruction in a single forward pass — map
 Input: Raw in-phase and quadrature (I/Q) reflectometer signals of shape [12500, 6]
 Output: Plasma density profile with 80 radial points
 Architecture: Multi-scale Inception-based CNN with residual connections
+
+🚀How to use
+
+By simply installing the required Python libraries, defining the input data shape, and setting model hyperparameters, you can use the model immediately.
